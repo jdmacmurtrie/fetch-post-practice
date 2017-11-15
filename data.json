@@ -1,0 +1,16 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "name": "Blackjack",
+      "subject": "OOP",
+      "due_date": "10/27/17"
+    },
+    {
+      "id": 2,
+      "name": "Dog Twitter Testing",
+      "subject": "Enzyme Testing",
+      "due_date": "11/15/17"
+    }
+  ]
+}
